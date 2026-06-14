@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Disallow: /prod-api/
+
+Sitemap: https://www.maijing.com/sitemap.xml
