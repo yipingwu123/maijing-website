@@ -3,4 +3,4 @@ Allow: /
 
 Disallow: /prod-api/
 
-Sitemap: https://www.maijing.com/sitemap.xml
+Sitemap: https://www.gw-maijing.com/sitemap.xml
